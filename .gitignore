@@ -1,2 +1,2 @@
-/.sourceknight
-*.smx
+.sourceknight/*
+.vscode
